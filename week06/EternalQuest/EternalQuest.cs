@@ -37,7 +37,6 @@ public class EternalQuest
             }
         }
     }
-
    public void LoadFromFile(string filename)
 {
     if (!File.Exists(filename))
